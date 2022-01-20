@@ -19,7 +19,7 @@ function gotPoses(results) {
 }
 
 function modelLoaded() {
-    console.log("Model Loaded Successfully");
+    console.log("Posenet Initialization Successful");
 }
 
 function draw() {
